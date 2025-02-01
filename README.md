@@ -2,7 +2,8 @@
 
 ## To Do
 
-- [ ] Scaffold basic UI
+- [x] Scaffold basic UI
+- [x] Github Actions
 - [ ] Connect Database
 - [ ] Connect auth
 - [ ] x
